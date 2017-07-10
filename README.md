@@ -3,7 +3,10 @@
 # 20 June 2017
 
 Slides and code for my presentation - meet-up details here:
-https://www.meetup.com/Cape-Town-deep-learning/events/240485642/
+```
+ https://www.meetup.com/Cape-Town-deep-learning/events/240485642/
+```
+
 
 The notebook covers how to:
 * Use a pre-trained model (VGG16) to predict imagenet classes for new images
@@ -32,9 +35,7 @@ Install the Anaconda python distribution available here: https://www.continuum.i
 
 ## Authors
 
-* **Alex Conway** - [NumberBoost](www.numberboost.com)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Alex Conway** - [NumberBoost](http://www.numberboost.com)
 
 ## Acknowledgments
 
